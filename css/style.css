@@ -1,0 +1,137 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+
+.header{
+    text-align: center;
+    font-style: italic;
+}
+
+@media (min-width: 992px){
+   section  #box1{
+        width: 30%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+    section #box2{
+        width: 30%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+    section #box3{
+        width: 30%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+
+}
+@media(min-width: 767px) and (max-width: 991px){
+    section  #box1{
+        width: 46%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+    section #box2{
+        width: 46%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+    section #box3{
+        width: 96%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        height: auto;
+    }
+}
+    @media(min-width: 0px) and (max-width: 766px){
+        section  #box1{
+           max-width: 500px;
+        }
+        section #box2{
+            width: 30%;
+            margin-right: 10px;
+            height: auto;   
+        }
+        section #box3{
+            width: 30%;
+            margin-right: 10px;
+            height: auto;
+        }
+
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+}
+
+.chicken{
+    background-color: grey;
+    border: 1px solid black;
+    padding: 0px 10px 5px 5px;
+    margin-bottom: 15px;
+    position: relative;
+    /*float: left*/;
+    display: flex;
+
+}
+
+#box1{
+    width: 30%;
+    margin-right: 10px;
+    float: left;
+}
+#box2{
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+}
+#box3{
+    float: left;
+    width: 30%;
+    margin-right: 3px;
+}
+.chick{
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: right;
+    background: pink;
+    margin-bottom: 30px;
+}
+.beef{
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: right;
+    background:brown;
+    color: white;
+    margin-bottom: 30px;
+}
+.sushi{
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: right;
+    background: palegoldenrod;
+    margin-bottom: 30px;
+}
+h3{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 0px;
+    margin-bottom: 40px;
+ }
+ p{
+     padding-top: 20px;
+ }
+    
