@@ -1,0 +1,94 @@
+.background-img{
+    max-width: 1600;
+    height: 700px;
+    padding-top: 150px;
+    padding-left: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    padding: 0px;
+    
+}
+.contact{
+    color: #4b5320;
+    font-weight: bolder;
+}
+.contactp{
+    color: #4b5320;
+    font-weight: bolder;
+}
+.con{
+    font-weight: bolder;
+    color: #4b5320;
+}
+.send{
+    font-weight: bolder;
+}
+.aboutus{
+    font-weight: bolder;
+    color: #4b5320;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.aboutp{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+}
+.imgceo{
+    height: 500px;
+    width: 90%;
+}
+.img1{
+    width: 296px;
+    height: 197px;
+}
+.testi{
+    font-weight: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.hometest{
+    background-color: green;
+    opacity: 0.7;
+}
+.testp{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.9;
+}
+.facili{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: cursive;
+}
+.facilipics{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer{
+    font-weight: bolder;
+}
+.feat{
+    font-weight: lighter;
+    color: honeydew;
+}
+.wel{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.shadow-box-example {
+    height: 65px;
+    width: 100%;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  }
+  .roomimg{
+      border: 1px solid lightslategray;
+      -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+      -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+      box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  }
+  .imgroom{
+      height: 250px;
+      width: 100%;
+  }
